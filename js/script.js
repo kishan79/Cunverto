@@ -18,5 +18,6 @@ function collectJSON()
              return;
      document.getElementById("show").innerHTML = (result.rates[j])*d;
      }
+    
 }
     
